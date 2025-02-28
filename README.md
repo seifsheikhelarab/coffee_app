@@ -10,7 +10,7 @@ A simple Flutter app that lets you customize your coffee preferences, including 
 - **Coffee-Themed UI**: Enjoy a visually appealing design with coffee-inspired colors and images.
 
 ## Screenshots
-![App Screenshot](assets/img/screenshot.jpg) 
+<img src="assets/img/screenshot.jpg" alt="screenshot" style="width:540px; height:1163px;"/>
 
 ## Getting Started
 
