@@ -64,7 +64,7 @@ This app uses the following Flutter packages:
 Pre-built versions of the app are available for **Web**, **Windows**, and **Android**. Download the latest release from the links below:
 
 ### Web
-- [Live Web App](https://your-web-app-url.com)
+- [Live Web App](https://seifsheikhelarab.github.io/coffee-app-web/)
 - Download builds from the Releases section of the repository
 
 ---
